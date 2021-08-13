@@ -1,4 +1,5 @@
- year , household , total , male , female , k_total , k_male , k_female , f_total , f_male , f_female , older_65 
+year,household,total,male,female,k_total,k_male,k_female,f_total,f_male,f_female,older_65
+1995 ,3448 ,10596 ,5326 ,5270 ,10551 ,5302 ,5249 ,45 ,24 ,21 ,460 
 1996 ,3457 ,10470 ,5258 ,5212 ,10418 ,5231 ,5187 ,52 ,27 ,25 ,469 
 1997 ,3499 ,10389 ,5214 ,5175 ,10336 ,5187 ,5150 ,53 ,28 ,25 ,485 
 1998 ,3459 ,10321 ,5174 ,5148 ,10271 ,5147 ,5124 ,51 ,27 ,24 ,505 
