@@ -1,4 +1,4 @@
-Total_Bill_Amount,Tip_Amount, Sex, Smoke_Yes_No, Week, Dinner_Lunch, Table_Size
+Total_Bill_Amount,Tip_Amount, Male_Female, Smoke_Yes_No, Week_Name, Dinner_Lunch, Table_Size
 16.99,1.01,Female,No,Sun,Dinner,2
 10.34,1.66,Male,No,Sun,Dinner,3
 21.01,3.5,Male,No,Sun,Dinner,3
