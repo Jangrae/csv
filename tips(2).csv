@@ -1,4 +1,4 @@
-total_bill_amount,tip, male_female, smoke_yes_no, week_name, dinner_lunch, size
+total_bill_amount,tip,male_female,smoke_yes_no,week_name,dinner_lunch,size
 16.99,1.01,Female,No,Sun,Dinner,2
 10.34,1.66,Male,No,Sun,Dinner,3
 21.01,3.5,Male,No,Sun,Dinner,3
