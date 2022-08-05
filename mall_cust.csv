@@ -1,8 +1,8 @@
 CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100)
 1,Male,19,15,39
-2,Male,21,15,81
+2,Male,,15,81
 3,Female,20,16,6
-4,Female,23,16,77
+4,Female,,16,77
 5,Female,31,,40
 6,Female,22,17,76
 7,Female,,18,6
