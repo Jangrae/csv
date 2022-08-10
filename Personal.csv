@@ -1,0 +1,892 @@
+CustomerCD,CustomerName,Gender,Age,BirthDate
+CT1001,"Braund, Mr. Owen Harris",male,32,1990-11-28
+CT1002,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,48,1975-04-25
+CT1003,"Heikkinen, Miss. Laina",female,36,1987-01-04
+CT1004,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,45,1978-03-28
+CT1005,"Allen, Mr. William Henry",male,45,1978-03-28
+CT1006,"Moran, Mr. James",male,27,2012-05-08
+CT1007,"McCarthy, Mr. Timothy J",male,64,1959-09-20
+CT1008,"Palsson, Master. Gosta Leonard",male,12,2010-05-27
+CT1009,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,37,1986-01-13
+CT1010,"Nasser, Mrs. Nicholas (Adele Achem)",female,24,1998-09-15
+CT1011,"Sandstrom, Miss. Marguerite Rut",female,14,2008-06-14
+CT1012,"Bonnell, Miss. Elizabeth",female,68,1955-10-27
+CT1013,"Saundercock, Mr. William Henry",male,30,1992-11-09
+CT1014,"Andersson, Mr. Anders Johan",male,49,1974-05-04
+CT1015,"Vestrom, Miss. Hulda Amanda Adolfina",female,24,1998-09-15
+CT1016,"Hewlett, Mrs. (Mary D Kingcome) ",female,65,1958-09-29
+CT1017,"Rice, Master. Eugene",male,12,2010-05-27
+CT1018,"Williams, Mr. Charles Eugene",male,27,2012-05-08
+CT1019,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,41,1982-02-19
+CT1020,"Masselmani, Mrs. Fatima",female,27,2012-05-08
+CT1021,"Fynney, Mr. Joseph J",male,45,1978-03-28
+CT1022,"Beesley, Mr. Lawrence",male,44,1979-03-19
+CT1023,"McGowan, Miss. Anna ""Annie""",female,25,1997-09-24
+CT1024,"Sloper, Mr. William Thompson",male,38,1985-01-22
+CT1025,"Palsson, Miss. Torborg Danira",female,18,2004-07-21
+CT1026,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,48,1975-04-25
+CT1027,"Emir, Mr. Farred Chehab",male,27,2012-05-08
+CT1028,"Fortune, Mr. Charles Alexander",male,29,1993-10-31
+CT1029,"O'Dwyer, Miss. Ellen ""Nellie""",female,,2012-05-08
+CT1030,"Todoroff, Mr. Lalio",male,27,2012-05-08
+CT1031,"Uruchurtu, Don. Manuel E",male,50,1973-05-13
+CT1032,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,27,2012-05-08
+CT1033,"Glynn, Miss. Mary Agatha",female,27,2012-05-08
+CT1034,"Wheadon, Mr. Edward H",male,76,1948-01-09
+CT1035,"Meyer, Mr. Edgar Joseph",male,38,1985-01-22
+CT1036,"Holverson, Mr. Alexander Oskar",male,52,1971-06-01
+CT1037,"Mamee, Mr. Hanna",male,27,2012-05-08
+CT1038,"Cann, Mr. Ernest Charles",male,31,1991-11-19
+CT1039,"Vander Planke, Miss. Augusta Maria",female,28,1994-10-22
+CT1040,"Nicola-Yarred, Miss. Jamila",female,24,1998-09-15
+CT1041,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,50,1973-05-13
+CT1042,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,37,1986-01-13
+CT1043,"Kraeff, Mr. Theodor",male,27,2012-05-08
+CT1044,"Laroche, Miss. Simonne Marie Anne Andree",female,13,2009-06-05
+CT1045,"Devaney, Miss. Margaret Delia",female,29,1993-10-31
+CT1046,"Rogers, Mr. William John",male,27,2012-05-08
+CT1047,"Lennon, Mr. Denis",male,27,2012-05-08
+CT1048,"O'Driscoll, Miss. Bridget",female,27,2012-05-08
+CT1049,"Samaan, Mr. Youssef",male,27,2012-05-08
+CT1050,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,28,1994-10-22
+CT1051,"Panula, Master. Juha Niilo",male,17,2005-07-12
+CT1052,"Nosworthy, Mr. Richard Cater",male,31,1991-11-19
+CT1053,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,59,1964-08-04
+CT1054,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,39,1984-02-01
+CT1055,"Ostby, Mr. Engelhart Cornelius",male,75,1948-12-30
+CT1056,"Woolner, Mr. Hugh",male,,2012-05-08
+CT1057,"Rugg, Miss. Emily",female,31,1991-11-19
+CT1058,"Novel, Mr. Mansouer",male,38,1985-01-22
+CT1059,"West, Miss. Constance Mirium",female,15,2007-06-24
+CT1060,"Goodwin, Master. William Frederick",male,21,2001-08-18
+CT1061,"Sirayanian, Mr. Orsen",male,32,1990-11-28
+CT1062,"Icard, Miss. Amelie",female,48,1975-04-25
+CT1063,"Harris, Mr. Henry Birkhardt",male,55,1968-06-28
+CT1064,"Skoog, Master. Harald",male,14,2008-06-14
+CT1065,"Stewart, Mr. Albert A",male,27,2012-05-08
+CT1066,"Moubarek, Master. Gerios",male,27,2012-05-08
+CT1067,"Nye, Mrs. (Elizabeth Ramell)",female,39,1984-02-01
+CT1068,"Crease, Mr. Ernest James",male,29,1993-10-31
+CT1069,"Andersson, Miss. Erna Alexandra",female,27,1995-10-13
+CT1070,"Kink, Mr. Vincenz",male,36,1987-01-04
+CT1071,"Jenkin, Mr. Stephen Curnow",male,42,1981-02-28
+CT1072,"Goodwin, Miss. Lillian Amy",female,26,1996-10-03
+CT1073,"Hood, Mr. Ambrose Jr",male,31,1991-11-19
+CT1074,"Chronopoulos, Mr. Apostolos",male,36,1987-01-04
+CT1075,"Bing, Mr. Lee",male,42,1981-02-28
+CT1076,"Moen, Mr. Sigurd Hansen",male,35,1987-12-26
+CT1077,"Staneff, Mr. Ivan",male,27,2012-05-08
+CT1078,"Moutal, Mr. Rahamin Haim",male,27,2012-05-08
+CT1079,"Caldwell, Master. Alden Gates",male,27,2012-05-08
+CT1080,"Dowdell, Miss. Elizabeth",female,40,1983-02-10
+CT1081,"Waelens, Mr. Achille",male,32,1990-11-28
+CT1082,"Sheerlinck, Mr. Jan Baptist",male,39,1984-02-01
+CT1083,"McDermott, Miss. Brigdet Delia",female,,2012-05-08
+CT1084,"Carrau, Mr. Francisco M",male,38,1985-01-22
+CT1085,"Ilett, Miss. Bertha",female,27,1995-10-13
+CT1086,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,43,1980-03-09
+CT1087,"Ford, Mr. William Neal",male,26,1996-10-03
+CT1088,"Slocovski, Mr. Selman Francis",male,27,2012-05-08
+CT1089,"Fortune, Miss. Mabel Helen",female,33,1989-12-07
+CT1090,"Celotti, Mr. Francesco",male,34,1988-12-16
+CT1091,"Christmann, Mr. Emil",male,39,1984-02-01
+CT1092,"Andreasson, Mr. Paul Edvin",male,30,1992-11-09
+CT1093,"Chaffee, Mr. Herbert Fuller",male,56,1967-07-08
+CT1094,"Dean, Mr. Bertram Frank",male,36,1987-01-04
+CT1095,"Coxon, Mr. Daniel",male,69,1954-11-05
+CT1096,"Shorney, Mr. Charles Joseph",male,27,2012-05-08
+CT1097,"Goldschmidt, Mr. George B",male,81,1943-02-24
+CT1098,"Greenfield, Mr. William Bertram",male,33,1989-12-07
+CT1099,"Doling, Mrs. John T (Ada Julia Bone)",female,44,1979-03-19
+CT1100,"Kantor, Mr. Sinai",male,44,1979-03-19
+CT1101,"Petranec, Miss. Matilda",female,38,1985-01-22
+CT1102,"Petroff, Mr. Pastcho (""Pentcho"")",male,27,2012-05-08
+CT1103,"White, Mr. Richard Frasar",male,31,1991-11-19
+CT1104,"Johansson, Mr. Gustaf Joel",male,43,1980-03-09
+CT1105,"Gustafsson, Mr. Anders Vilhelm",male,47,1976-04-15
+CT1106,"Mionoff, Mr. Stoytcho",male,38,1985-01-22
+CT1107,"Salkjelsvik, Miss. Anna Kristine",female,31,1991-11-19
+CT1108,"Moss, Mr. Albert Johan",male,27,2012-05-08
+CT1109,"Rekic, Mr. Tido",male,48,1975-04-25
+CT1110,"Moran, Miss. Bertha",female,27,2012-05-08
+CT1111,"Porter, Mr. Walter Chamberlain",male,57,1966-07-17
+CT1112,"Zabour, Miss. Hileni",female,24,1998-09-15
+CT1113,"Barton, Mr. David John",male,32,1990-11-28
+CT1114,"Jussila, Miss. Katriina",female,30,1992-11-09
+CT1115,"Attalah, Miss. Malake",female,27,1995-10-13
+CT1116,"Pekoniemi, Mr. Edvard",male,31,1991-11-19
+CT1117,"Connors, Mr. Patrick",male,80,1944-02-15
+CT1118,"Turpin, Mr. William John Robert",male,39,1984-02-01
+CT1119,"Baxter, Mr. Quigg Edmond",male,34,1988-12-16
+CT1120,"Andersson, Miss. Ellis Anna Maria",female,12,2010-05-27
+CT1121,"Hickman, Mr. Stanley George",male,31,1991-11-19
+CT1122,"Moore, Mr. Leonard Charles",male,27,2012-05-08
+CT1123,"Nasser, Mr. Nicholas",male,42,1981-02-28
+CT1124,"Webber, Miss. Susan",female,42,1981-02-28
+CT1125,"White, Mr. Percival Wayland",male,64,1959-09-20
+CT1126,"Nicola-Yarred, Master. Elias",male,22,2000-08-27
+CT1127,"McMahon, Mr. Martin",male,,2012-05-08
+CT1128,"Madsen, Mr. Fridtjof Arne",male,34,1988-12-16
+CT1129,"Peter, Miss. Anna",female,27,2012-05-08
+CT1130,"Ekstrom, Mr. Johan",male,55,1968-06-28
+CT1131,"Drazenoic, Mr. Jozef",male,43,1980-03-09
+CT1132,"Coelho, Mr. Domingos Fernandeo",male,30,1992-11-09
+CT1133,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,57,1966-07-17
+CT1134,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,39,1984-02-01
+CT1135,"Sobey, Mr. Samuel James Hayden",male,35,1987-12-26
+CT1136,"Richard, Mr. Emile",male,33,1989-12-07
+CT1137,"Newsom, Miss. Helen Monypeny",female,29,1993-10-31
+CT1138,"Futrelle, Mr. Jacques Heath",male,47,1976-04-15
+CT1139,"Osen, Mr. Olaf Elon",male,26,1996-10-03
+CT1140,"Giglio, Mr. Victor",male,34,1988-12-16
+CT1141,"Boulos, Mrs. Joseph (Sultana)",female,27,2012-05-08
+CT1142,"Nysten, Miss. Anna Sofia",female,32,1990-11-28
+CT1143,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,34,1988-12-16
+CT1144,"Burke, Mr. Jeremiah",male,29,1993-10-31
+CT1145,"Andrew, Mr. Edgardo Samuel",male,28,1994-10-22
+CT1146,"Nicholls, Mr. Joseph Charles",male,29,1993-10-31
+CT1147,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,37,1986-01-13
+CT1148,"Ford, Miss. Robina Maggie ""Ruby""",female,19,2003-07-31
+CT1149,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,46,1977-04-06
+CT1150,"Byles, Rev. Thomas Roussel Davids",male,52,1971-06-01
+CT1151,"Bateman, Rev. Robert James",male,61,1962-08-23
+CT1152,"Pears, Mrs. Thomas (Edith Wearne)",female,32,1990-11-28
+CT1153,"Meo, Mr. Alfonzo",male,65,1958-09-29
+CT1154,"van Billiard, Mr. Austin Blyler",male,50,1973-05-13
+CT1155,"Olsen, Mr. Ole Martin",male,,2012-05-08
+CT1156,"Williams, Mr. Charles Duane",male,61,1962-08-23
+CT1157,"Gilnagh, Miss. Katherine ""Katie""",female,26,1996-10-03
+CT1158,"Corn, Mr. Harry",male,40,1983-02-10
+CT1159,"Smiljanic, Mr. Mile",male,27,2012-05-08
+CT1160,"Sage, Master. Thomas Henry",male,27,2012-05-08
+CT1161,"Cribb, Mr. John Hatfield",male,54,1969-06-19
+CT1162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,50,1973-05-13
+CT1163,"Bengtsson, Mr. John Viktor",male,36,1987-01-04
+CT1164,"Calic, Mr. Jovo",male,27,1995-10-13
+CT1165,"Panula, Master. Eino Viljami",male,11,2011-05-18
+CT1166,"Goldsmith, Master. Frank John William ""Frankie""",male,19,2003-07-31
+CT1167,"Chibnall, Mrs. (Edith Martha Bowerman)",female,27,2012-05-08
+CT1168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,55,1968-06-28
+CT1169,"Baumann, Mr. John D",male,27,2012-05-08
+CT1170,"Ling, Mr. Lee",male,38,1985-01-22
+CT1171,"Van der hoef, Mr. Wyckoff",male,71,1952-11-23
+CT1172,"Rice, Master. Arthur",male,14,2008-06-14
+CT1173,"Johnson, Miss. Eleanor Ileen",female,11,2011-05-18
+CT1174,"Sivola, Mr. Antti Wilhelm",male,31,1991-11-19
+CT1175,"Smith, Mr. James Clinch",male,66,1957-10-08
+CT1176,"Klasen, Mr. Klas Albin",male,28,1994-10-22
+CT1177,"Lefebre, Master. Henry Forbes",male,27,2012-05-08
+CT1178,"Isham, Miss. Ann Elizabeth",female,60,1963-08-14
+CT1179,"Hale, Mr. Reginald",male,40,1983-02-10
+CT1180,"Leonard, Mr. Lionel",male,46,1977-04-06
+CT1181,"Sage, Miss. Constance Gladys",female,,2012-05-08
+CT1182,"Pernot, Mr. Rene",male,,2012-05-08
+CT1183,"Asplund, Master. Clarence Gustaf Hugo",male,19,2003-07-31
+CT1184,"Becker, Master. Richard F",male,11,2011-05-18
+CT1185,"Kink-Heilmann, Miss. Luise Gretchen",female,14,2008-06-14
+CT1186,"Rood, Mr. Hugh Roscoe",male,27,2012-05-08
+CT1187,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,27,2012-05-08
+CT1188,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,55,1968-06-28
+CT1189,"Bourke, Mr. John",male,50,1973-05-13
+CT1190,"Turcin, Mr. Stjepan",male,46,1977-04-06
+CT1191,"Pinsky, Mrs. (Rosa)",female,42,1981-02-28
+CT1192,"Carbines, Mr. William",male,29,1993-10-31
+CT1193,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,29,1993-10-31
+CT1194,"Navratil, Master. Michel M",male,13,2009-06-05
+CT1195,"Brown, Mrs. James Joseph (Margaret Tobin)",female,54,1969-06-19
+CT1196,"Lurette, Miss. Elise",female,68,1955-10-27
+CT1197,"Mernagh, Mr. Robert",male,27,2012-05-08
+CT1198,"Olsen, Mr. Karl Siegwart Andreas",male,52,1971-06-01
+CT1199,"Madigan, Miss. Margaret ""Maggie""",female,27,2012-05-08
+CT1200,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,34,1988-12-16
+CT1201,"Vande Walle, Mr. Nestor Cyriel",male,38,1985-01-22
+CT1202,"Sage, Mr. Frederick",male,27,2012-05-08
+CT1203,"Johanson, Mr. Jakob Alfred",male,44,1979-03-19
+CT1204,"Youseff, Mr. Gerious",male,55,1968-06-28
+CT1205,"Cohen, Mr. Gurshon ""Gus""",male,28,1994-10-22
+CT1206,"Strom, Miss. Telma Matilda",female,12,2010-05-27
+CT1207,"Backstrom, Mr. Karl Alfred",male,42,1981-02-28
+CT1208,"Albimona, Mr. Nassef Cassem",male,36,1987-01-04
+CT1209,"Carr, Miss. Helen ""Ellen""",female,26,1996-10-03
+CT1210,"Blank, Mr. Henry",male,50,1973-05-13
+CT1211,"Ali, Mr. Ahmed",male,34,1988-12-16
+CT1212,"Cameron, Miss. Clear Annie",female,45,1978-03-28
+CT1213,"Perkin, Mr. John Henry",male,32,1990-11-28
+CT1214,"Givard, Mr. Hans Kristensen",male,40,1983-02-10
+CT1215,"Kiernan, Mr. Philip",male,27,2012-05-08
+CT1216,"Newell, Miss. Madeleine",female,41,1982-02-19
+CT1217,"Honkanen, Miss. Eliina",female,37,1986-01-13
+CT1218,"Jacobsohn, Mr. Sidney Samuel",male,52,1971-06-01
+CT1219,"Bazzani, Miss. Albina",female,42,1981-02-28
+CT1220,"Harris, Mr. Walter",male,40,1983-02-10
+CT1221,"Sunderland, Mr. Victor Francis",male,26,1996-10-03
+CT1222,"Bracken, Mr. James H",male,37,1986-01-13
+CT1223,"Green, Mr. George Henry",male,61,1962-08-23
+CT1224,"Nenkoff, Mr. Christo",male,27,2012-05-08
+CT1225,"Hoyt, Mr. Frederick Maxfield",male,48,1975-04-25
+CT1226,"Berglund, Mr. Karl Ivar Sven",male,32,1990-11-28
+CT1227,"Mellors, Mr. William John",male,29,1993-10-31
+CT1228,"Lovell, Mr. John Hall (""Henry"")",male,30,1992-11-09
+CT1229,"Fahlstrom, Mr. Arne Jonas",male,28,1994-10-22
+CT1230,"Lefebre, Miss. Mathilde",female,,2012-05-08
+CT1231,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,45,1978-03-28
+CT1232,"Larsson, Mr. Bengt Edvin",male,39,1984-02-01
+CT1233,"Sjostedt, Mr. Ernst Adolf",male,69,1954-11-05
+CT1234,"Asplund, Miss. Lillian Gertrud",female,15,2007-06-24
+CT1235,"Leyson, Mr. Robert William Norman",male,34,1988-12-16
+CT1236,"Harknett, Miss. Alice Phoebe",female,27,2012-05-08
+CT1237,"Hold, Mr. Stephen",male,54,1969-06-19
+CT1238,"Collyer, Miss. Marjorie ""Lottie""",female,18,2004-07-21
+CT1239,"Pengelly, Mr. Frederick William",male,29,1993-10-31
+CT1240,"Hunt, Mr. George Henry",male,43,1980-03-09
+CT1241,"Zabour, Miss. Thamine",female,27,2012-05-08
+CT1242,"Murphy, Miss. Katherine ""Kate""",female,27,2012-05-08
+CT1243,"Coleridge, Mr. Reginald Charles",male,39,1984-02-01
+CT1244,"Maenpaa, Mr. Matti Alexanteri",male,32,1990-11-28
+CT1245,"Attalah, Mr. Sleiman",male,40,1983-02-10
+CT1246,"Minahan, Dr. William Edward",male,54,1969-06-19
+CT1247,"Lindahl, Miss. Agda Thorilda Viktoria",female,35,1987-12-26
+CT1248,"Hamalainen, Mrs. William (Anna)",female,34,1988-12-16
+CT1249,"Beckwith, Mr. Richard Leonard",male,47,1976-04-15
+CT1250,"Carter, Rev. Ernest Courtenay",male,64,1959-09-20
+CT1251,"Reed, Mr. James George",male,27,2012-05-08
+CT1252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,39,1984-02-01
+CT1253,"Stead, Mr. William Thomas",male,72,1951-12-03
+CT1254,"Lobb, Mr. William Arthur",male,40,1983-02-10
+CT1255,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,51,1972-05-22
+CT1256,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,39,1984-02-01
+CT1257,"Thorne, Mrs. Gertrude Maybelle",female,,2012-05-08
+CT1258,"Cherry, Miss. Gladys",female,40,1983-02-10
+CT1259,"Ward, Miss. Anna",female,45,1978-03-28
+CT1260,"Parrish, Mrs. (Lutie Davis)",female,60,1963-08-14
+CT1261,"Smith, Mr. Thomas",male,27,2012-05-08
+CT1262,"Asplund, Master. Edvin Rojj Felix",male,13,2009-06-05
+CT1263,"Taussig, Mr. Emil",male,62,1961-09-01
+CT1264,"Harrison, Mr. William",male,50,1973-05-13
+CT1265,"Henry, Miss. Delia",female,27,2012-05-08
+CT1266,"Reeves, Mr. David",male,46,1977-04-06
+CT1267,"Panula, Mr. Ernesti Arvid",male,26,1996-10-03
+CT1268,"Persson, Mr. Ernst Ulrik",male,35,1987-12-26
+CT1269,"Graham, Mrs. William Thompson (Edith Junkins)",female,68,1955-10-27
+CT1270,"Bissette, Miss. Amelia",female,45,1978-03-28
+CT1271,"Cairns, Mr. Alexander",male,,2012-05-08
+CT1272,"Tornquist, Mr. William Henry",male,35,1987-12-26
+CT1273,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,51,1972-05-22
+CT1274,"Natsch, Mr. Charles H",male,47,1976-04-15
+CT1275,"Healy, Miss. Hanora ""Nora""",female,27,2012-05-08
+CT1276,"Andrews, Miss. Kornelia Theodosia",female,73,1950-12-12
+CT1277,"Lindblom, Miss. Augusta Charlotta",female,55,1968-06-28
+CT1278,"Parkes, Mr. Francis ""Frank""",male,27,2012-05-08
+CT1279,"Rice, Master. Eric",male,17,2005-07-12
+CT1280,"Abbott, Mrs. Stanton (Rosa Hunt)",female,45,1978-03-28
+CT1281,"Duane, Mr. Frank",male,75,1948-12-30
+CT1282,"Olsson, Mr. Nils Johan Goransson",male,38,1985-01-22
+CT1283,"de Pelsmaeker, Mr. Alfons",male,26,1996-10-03
+CT1284,"Dorking, Mr. Edward Arthur",male,29,1993-10-31
+CT1285,"Smith, Mr. Richard William",male,27,2012-05-08
+CT1286,"Stankovic, Mr. Ivan",male,43,1980-03-09
+CT1287,"de Mulder, Mr. Theodore",male,40,1983-02-10
+CT1288,"Naidenoff, Mr. Penko",male,32,1990-11-28
+CT1289,"Hosono, Mr. Masabumi",male,52,1971-06-01
+CT1290,"Connolly, Miss. Kate",female,32,1990-11-28
+CT1291,"Barber, Miss. Ellen ""Nellie""",female,36,1987-01-04
+CT1292,"Bishop, Mrs. Dickinson H (Helen Walton)",female,29,1993-10-31
+CT1293,"Levy, Mr. Rene Jacques",male,46,1977-04-06
+CT1294,"Haas, Miss. Aloisia",female,34,1988-12-16
+CT1295,"Mineff, Mr. Ivan",male,34,1988-12-16
+CT1296,"Lewy, Mr. Ervin G",male,27,2012-05-08
+CT1297,"Hanna, Mr. Mansour",male,33,1989-12-07
+CT1298,"Allison, Miss. Helen Loraine",female,12,2010-05-27
+CT1299,"Saalfeld, Mr. Adolphe",male,27,2012-05-08
+CT1300,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,60,1963-08-14
+CT1301,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,27,2012-05-08
+CT1302,"McCoy, Mr. Bernard",male,27,2012-05-08
+CT1303,"Johnson, Mr. William Cahoone Jr",male,29,1993-10-31
+CT1304,"Keane, Miss. Nora A",female,27,2012-05-08
+CT1305,"Williams, Mr. Howard Hugh ""Harry""",male,27,2012-05-08
+CT1306,"Allison, Master. Hudson Trevor",male,27,2012-05-08
+CT1307,"Fleming, Miss. Margaret",female,27,2012-05-08
+CT1308,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,27,1995-10-13
+CT1309,"Abelson, Mr. Samuel",male,40,1983-02-10
+CT1310,"Francatelli, Miss. Laura Mabel",female,40,1983-02-10
+CT1311,"Hays, Miss. Margaret Bechstein",female,34,1988-12-16
+CT1312,"Ryerson, Miss. Emily Borie",female,28,1994-10-22
+CT1313,"Lahtinen, Mrs. William (Anna Sylfven)",female,36,1987-01-04
+CT1314,"Hendekovic, Mr. Ignjac",male,38,1985-01-22
+CT1315,"Hart, Mr. Benjamin",male,53,1970-06-10
+CT1316,"Nilsson, Miss. Helmina Josefina",female,36,1987-01-04
+CT1317,"Kantor, Mrs. Sinai (Miriam Sternin)",female,34,1988-12-16
+CT1318,"Moraweck, Dr. Ernest",male,64,1959-09-20
+CT1319,"Wick, Miss. Mary Natalie",female,41,1982-02-19
+CT1320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,50,1973-05-13
+CT1321,"Dennis, Mr. Samuel",male,32,1990-11-28
+CT1322,"Danoff, Mr. Yoto",male,37,1986-01-13
+CT1323,"Slayter, Miss. Hilda Mary",female,40,1983-02-10
+CT1324,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,32,1990-11-28
+CT1325,"Sage, Mr. George John Jr",male,27,2012-05-08
+CT1326,"Young, Miss. Marie Grice",female,46,1977-04-06
+CT1327,"Nysveen, Mr. Johan Hansen",male,71,1952-11-23
+CT1328,"Ball, Mrs. (Ada E Hall)",female,46,1977-04-06
+CT1329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,41,1982-02-19
+CT1330,"Hippach, Miss. Jean Gertrude",female,26,1996-10-03
+CT1331,"McCoy, Miss. Agnes",female,27,2012-05-08
+CT1332,"Partner, Mr. Austen",male,55,1968-06-28
+CT1333,"Graham, Mr. George Edward",male,48,1975-04-25
+CT1334,"Vander Planke, Mr. Leo Edmondus",male,26,1996-10-03
+CT1335,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,27,2012-05-08
+CT1336,"Denkoff, Mr. Mitto",male,27,2012-05-08
+CT1337,"Pears, Mr. Thomas Clinton",male,39,1984-02-01
+CT1338,"Burns, Miss. Elizabeth Margaret",female,51,1972-05-22
+CT1339,"Dahl, Mr. Karl Edwart",male,55,1968-06-28
+CT1340,"Blackwell, Mr. Stephen Weart",male,55,1968-06-28
+CT1341,"Navratil, Master. Edmond Roger",male,12,2010-05-27
+CT1342,"Fortune, Miss. Alice Elizabeth",female,34,1988-12-16
+CT1343,"Collander, Mr. Erik Gustaf",male,38,1985-01-22
+CT1344,"Sedgwick, Mr. Charles Frederick Waddington",male,35,1987-12-26
+CT1345,"Fox, Mr. Stanley Hubert",male,46,1977-04-06
+CT1346,"Brown, Miss. Amelia ""Mildred""",female,34,1988-12-16
+CT1347,"Smith, Miss. Marion Elsie",female,50,1973-05-13
+CT1348,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,27,2012-05-08
+CT1349,"Coutts, Master. William Loch ""William""",male,13,2009-06-05
+CT1350,"Dimic, Mr. Jovan",male,52,1971-06-01
+CT1351,"Odahl, Mr. Nils Martin",male,33,1989-12-07
+CT1352,"Williams-Lambert, Mr. Fletcher Fellows",male,27,2012-05-08
+CT1353,"Elias, Mr. Tannous",male,25,1997-09-24
+CT1354,"Arnold-Franchi, Mr. Josef",male,35,1987-12-26
+CT1355,"Yousif, Mr. Wazli",male,27,2012-05-08
+CT1356,"Vanden Steen, Mr. Leo Peter",male,38,1985-01-22
+CT1357,"Bowerman, Miss. Elsie Edith",female,32,1990-11-28
+CT1358,"Funk, Miss. Annie Clemmer",female,48,1975-04-25
+CT1359,"McGovern, Miss. Mary",female,27,2012-05-08
+CT1360,"Mockler, Miss. Helen Mary ""Ellie""",female,27,2012-05-08
+CT1361,"Skoog, Mr. Wilhelm",male,50,1973-05-13
+CT1362,"del Carlo, Mr. Sebastiano",male,39,1984-02-01
+CT1363,"Barbara, Mrs. (Catherine David)",female,55,1968-06-28
+CT1364,"Asim, Mr. Adola",male,45,1978-03-28
+CT1365,"O'Brien, Mr. Thomas",male,27,2012-05-08
+CT1366,"Adahl, Mr. Mauritz Nils Martin",male,40,1983-02-10
+CT1367,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,70,1953-11-14
+CT1368,"Moussa, Mrs. (Mantoura Boulos)",female,27,2012-05-08
+CT1369,"Jermyn, Miss. Annie",female,27,2012-05-08
+CT1370,"Aubart, Mme. Leontine Pauline",female,34,1988-12-16
+CT1371,"Harder, Mr. George Achilles",male,35,1987-12-26
+CT1372,"Wiklund, Mr. Jakob Alfred",male,28,1994-10-22
+CT1373,"Beavan, Mr. William Thomas",male,29,1993-10-31
+CT1374,"Ringhini, Mr. Sante",male,32,1990-11-28
+CT1375,"Palsson, Miss. Stina Viola",female,13,2009-06-05
+CT1376,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,27,2012-05-08
+CT1377,"Landergren, Miss. Aurora Adelia",female,32,1990-11-28
+CT1378,"Widener, Mr. Harry Elkins",male,37,1986-01-13
+CT1379,"Betros, Mr. Tannous",male,30,1992-11-09
+CT1380,"Gustafsson, Mr. Karl Gideon",male,29,1993-10-31
+CT1381,"Bidois, Miss. Rosalie",female,52,1971-06-01
+CT1382,"Nakid, Miss. Maria (""Mary"")",female,11,2011-05-18
+CT1383,"Tikkanen, Mr. Juho",male,42,1981-02-28
+CT1384,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,45,1978-03-28
+CT1385,"Plotcharsky, Mr. Vasil",male,27,2012-05-08
+CT1386,"Davies, Mr. Charles Henry",male,28,1994-10-22
+CT1387,"Goodwin, Master. Sidney Leonard",male,11,2011-05-18
+CT1388,"Buss, Miss. Kate",female,46,1977-04-06
+CT1389,"Sadlier, Mr. Matthew",male,27,2012-05-08
+CT1390,"Lehmann, Miss. Bertha",female,27,1995-10-13
+CT1391,"Carter, Mr. William Ernest",male,46,1977-04-06
+CT1392,"Jansson, Mr. Carl Olof",male,31,1991-11-19
+CT1393,"Gustafsson, Mr. Johan Birger",male,38,1985-01-22
+CT1394,"Newell, Miss. Marjorie",female,33,1989-12-07
+CT1395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,34,1988-12-16
+CT1396,"Johansson, Mr. Erik",male,32,1990-11-28
+CT1397,"Olsson, Miss. Elina",female,41,1982-02-19
+CT1398,"McKane, Mr. Peter David",male,56,1967-07-08
+CT1399,"Pain, Dr. Alfred",male,33,1989-12-07
+CT1400,"Trout, Mrs. William H (Jessie L)",female,38,1985-01-22
+CT1401,"Niskanen, Mr. Juha",male,49,1974-05-04
+CT1402,"Adams, Mr. John",male,36,1987-01-04
+CT1403,"Jussila, Miss. Mari Aina",female,31,1991-11-19
+CT1404,"Hakkarainen, Mr. Pekka Pietari",male,38,1985-01-22
+CT1405,"Oreskovic, Miss. Marija",female,30,1992-11-09
+CT1406,"Gale, Mr. Shadrach",male,44,1979-03-19
+CT1407,"Widegren, Mr. Carl/Charles Peter",male,61,1962-08-23
+CT1408,"Richards, Master. William Rowe",male,13,2009-06-05
+CT1409,"Birkeland, Mr. Hans Martin Monsen",male,31,1991-11-19
+CT1410,"Lefebre, Miss. Ida",female,27,2012-05-08
+CT1411,"Sdycoff, Mr. Todor",male,27,2012-05-08
+CT1412,"Hart, Mr. Henry",male,27,2012-05-08
+CT1413,"Minahan, Miss. Daisy E",female,43,1980-03-09
+CT1414,"Cunningham, Mr. Alfred Fleming",male,27,2012-05-08
+CT1415,"Sundman, Mr. Johan Julian",male,54,1969-06-19
+CT1416,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,27,2012-05-08
+CT1417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,44,1979-03-19
+CT1418,"Silven, Miss. Lyyli Karoliina",female,28,1994-10-22
+CT1419,"Matthews, Mr. William John",male,40,1983-02-10
+CT1420,"Van Impe, Miss. Catharina",female,20,2002-08-09
+CT1421,"Gheorgheff, Mr. Stanio",male,27,2012-05-08
+CT1422,"Charters, Mr. David",male,31,1991-11-19
+CT1423,"Zimmerman, Mr. Leo",male,39,1984-02-01
+CT1424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,38,1985-01-22
+CT1425,"Rosblom, Mr. Viktor Richard",male,28,1994-10-22
+CT1426,"Wiseman, Mr. Phillippe",male,27,2012-05-08
+CT1427,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,38,1985-01-22
+CT1428,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,29,1993-10-31
+CT1429,"Flynn, Mr. James",male,27,2012-05-08
+CT1430,"Pickard, Mr. Berk (Berk Trembisky)",male,42,1981-02-28
+CT1431,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,38,1985-01-22
+CT1432,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,27,2012-05-08
+CT1433,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,52,1971-06-01
+CT1434,"Kallio, Mr. Nikolai Erland",male,27,1995-10-13
+CT1435,"Silvey, Mr. William Baird",male,60,1963-08-14
+CT1436,"Carter, Miss. Lucile Polk",female,24,1998-09-15
+CT1437,"Ford, Miss. Doolina Margaret ""Daisy""",female,31,1991-11-19
+CT1438,"Richards, Mrs. Sidney (Emily Hocking)",female,34,1988-12-16
+CT1439,"Fortune, Mr. Mark",male,74,1949-12-21
+CT1440,"Kvillner, Mr. Johan Henrik Johannesson",male,41,1982-02-19
+CT1441,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,55,1968-06-28
+CT1442,"Hampe, Mr. Leon",male,30,1992-11-09
+CT1443,"Petterson, Mr. Johan Emil",male,35,1987-12-26
+CT1444,"Reynaldo, Ms. Encarnacion",female,38,1985-01-22
+CT1445,"Johannesen-Bratthammer, Mr. Bernt",male,27,2012-05-08
+CT1446,"Dodge, Master. Washington",male,14,2008-06-14
+CT1447,"Mellinger, Miss. Madeleine Violet",female,23,1999-09-06
+CT1448,"Seward, Mr. Frederic Kimber",male,44,1979-03-19
+CT1449,"Baclini, Miss. Marie Catherine",female,15,2007-06-24
+CT1450,"Peuchen, Major. Arthur Godfrey",male,62,1961-09-01
+CT1451,"West, Mr. Edwy Arthur",male,46,1977-04-06
+CT1452,"Hagland, Mr. Ingvald Olai Olsen",male,27,2012-05-08
+CT1453,"Foreman, Mr. Benjamin Laventall",male,40,1983-02-10
+CT1454,"Goldenberg, Mr. Samuel L",male,59,1964-08-04
+CT1455,"Peduzzi, Mr. Joseph",male,27,2012-05-08
+CT1456,"Jalsevac, Mr. Ivan",male,39,1984-02-01
+CT1457,"Millet, Mr. Francis Davis",male,75,1948-12-30
+CT1458,"Kenyon, Mrs. Frederick R (Marion)",female,27,2012-05-08
+CT1459,"Toomey, Miss. Ellen",female,60,1963-08-14
+CT1460,"O'Connor, Mr. Maurice",male,27,2012-05-08
+CT1461,"Anderson, Mr. Harry",male,58,1965-07-26
+CT1462,"Morley, Mr. William",male,44,1979-03-19
+CT1463,"Gee, Mr. Arthur H",male,57,1966-07-17
+CT1464,"Milling, Mr. Jacob Christian",male,58,1965-07-26
+CT1465,"Maisner, Mr. Simon",male,27,2012-05-08
+CT1466,"Goncalves, Mr. Manuel Estanslas",male,48,1975-04-25
+CT1467,"Campbell, Mr. William",male,27,2012-05-08
+CT1468,"Smart, Mr. John Montgomery",male,66,1957-10-08
+CT1469,"Scanlan, Mr. James",male,27,2012-05-08
+CT1470,"Baclini, Miss. Helene Barbara",female,27,2012-05-08
+CT1471,"Keefe, Mr. Arthur",male,27,2012-05-08
+CT1472,"Cacic, Mr. Luka",male,48,1975-04-25
+CT1473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,43,1980-03-09
+CT1474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,33,1989-12-07
+CT1475,"Strandberg, Miss. Ida Sofia",female,32,1990-11-28
+CT1476,"Clifford, Mr. George Quincy",male,27,2012-05-08
+CT1477,"Renouf, Mr. Peter Henry",male,44,1979-03-19
+CT1478,"Braund, Mr. Lewis Richard",male,39,1984-02-01
+CT1479,"Karlsson, Mr. Nils August",male,32,1990-11-28
+CT1480,"Hirvonen, Miss. Hildur E",female,12,2010-05-27
+CT1481,"Goodwin, Master. Harold Victor",male,19,2003-07-31
+CT1482,"Frost, Mr. Anthony Wood ""Archie""",male,27,2012-05-08
+CT1483,"Rouse, Mr. Richard Henry",male,60,1963-08-14
+CT1484,"Turkula, Mrs. (Hedwig)",female,73,1950-12-12
+CT1485,"Bishop, Mr. Dickinson H",male,35,1987-12-26
+CT1486,"Lefebre, Miss. Jeannie",female,27,2012-05-08
+CT1487,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,45,1978-03-28
+CT1488,"Kent, Mr. Edward Austin",male,68,1955-10-27
+CT1489,"Somerton, Mr. Francis William",male,40,1983-02-10
+CT1490,"Coutts, Master. Eden Leslie ""Neville""",male,19,2003-07-31
+CT1491,"Hagland, Mr. Konrad Mathias Reiersen",male,27,2012-05-08
+CT1492,"Windelov, Mr. Einar",male,31,1991-11-19
+CT1493,"Molson, Mr. Harry Markland",male,65,1958-09-29
+CT1494,"Artagaveytia, Mr. Ramon",male,81,1943-02-24
+CT1495,"Stanley, Mr. Edward Roland",male,31,1991-11-19
+CT1496,"Yousseff, Mr. Gerious",male,27,2012-05-08
+CT1497,"Eustis, Miss. Elizabeth Mussey",female,64,1959-09-20
+CT1498,"Shellard, Mr. Frederick William",male,27,2012-05-08
+CT1499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,35,1987-12-26
+CT1500,"Svensson, Mr. Olof",male,34,1988-12-16
+CT1501,"Calic, Mr. Petar",male,27,1995-10-13
+CT1502,"Canavan, Miss. Mary",female,31,1991-11-19
+CT1503,"O'Sullivan, Miss. Bridget Mary",female,27,2012-05-08
+CT1504,"Laitinen, Miss. Kristina Sofia",female,47,1976-04-15
+CT1505,"Maioni, Miss. Roberta",female,26,1996-10-03
+CT1506,"Penasco y Castellana, Mr. Victor de Satode",male,28,1994-10-22
+CT1507,"Quick, Mrs. Frederick Charles (Jane Richards)",female,43,1980-03-09
+CT1508,"Bradley, Mr. George (""George Arthur Brayton"")",male,27,2012-05-08
+CT1509,"Olsen, Mr. Henry Margido",male,38,1985-01-22
+CT1510,"Lang, Mr. Fang",male,36,1987-01-04
+CT1511,"Daly, Mr. Eugene Patrick",male,39,1984-02-01
+CT1512,"Webber, Mr. James",male,27,2012-05-08
+CT1513,"McGough, Mr. James Robert",male,46,1977-04-06
+CT1514,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,64,1959-09-20
+CT1515,"Coleff, Mr. Satio",male,34,1988-12-16
+CT1516,"Walker, Mr. William Anderson",male,57,1966-07-17
+CT1517,"Lemore, Mrs. (Amelia Milley)",female,44,1979-03-19
+CT1518,"Ryan, Mr. Patrick",male,27,2012-05-08
+CT1519,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,46,1977-04-06
+CT1520,"Pavlovic, Mr. Stefo",male,42,1981-02-28
+CT1521,"Perreault, Miss. Anne",female,40,1983-02-10
+CT1522,"Vovk, Mr. Janko",male,32,1990-11-28
+CT1523,"Lahoud, Mr. Sarkis",male,27,2012-05-08
+CT1524,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,54,1969-06-19
+CT1525,"Kassem, Mr. Fared",male,27,2012-05-08
+CT1526,"Farrell, Mr. James",male,50,1973-05-13
+CT1527,"Ridsdale, Miss. Lucy",female,60,1963-08-14
+CT1528,"Farthing, Mr. John",male,27,2012-05-08
+CT1529,"Salonen, Mr. Johan Werner",male,49,1974-05-04
+CT1530,"Hocking, Mr. Richard George",male,33,1989-12-07
+CT1531,"Quick, Miss. Phyllis May",female,12,2010-05-27
+CT1532,"Toufik, Mr. Nakli",male,27,2012-05-08
+CT1533,"Elias, Mr. Joseph Jr",male,27,1995-10-13
+CT1534,"Peter, Mrs. Catherine (Catherine Rizk)",female,27,2012-05-08
+CT1535,"Cacic, Miss. Marija",female,40,1983-02-10
+CT1536,"Hart, Miss. Eva Miriam",female,17,2005-07-12
+CT1537,"Butt, Major. Archibald Willingham",male,55,1968-06-28
+CT1538,"LeRoy, Miss. Bertha",female,40,1983-02-10
+CT1539,"Risien, Mr. Samuel Beard",male,27,2012-05-08
+CT1540,"Frolicher, Miss. Hedwig Margaritha",female,32,1990-11-28
+CT1541,"Crosby, Miss. Harriet R",female,46,1977-04-06
+CT1542,"Andersson, Miss. Ingeborg Constanzia",female,19,2003-07-31
+CT1543,"Andersson, Miss. Sigrid Elisabeth",female,21,2001-08-18
+CT1544,"Beane, Mr. Edward",male,42,1981-02-28
+CT1545,"Douglas, Mr. Walter Donald",male,60,1963-08-14
+CT1546,"Nicholson, Mr. Arthur Ernest",male,74,1949-12-21
+CT1547,"Beane, Mrs. Edward (Ethel Clarke)",female,29,1993-10-31
+CT1548,"Padro y Manent, Mr. Julian",male,27,2012-05-08
+CT1549,"Goldsmith, Mr. Frank John",male,43,1980-03-09
+CT1550,"Davies, Master. John Morgan Jr",male,18,2004-07-21
+CT1551,"Thayer, Mr. John Borland Jr",male,27,1995-10-13
+CT1552,"Sharp, Mr. Percival James R",male,37,1986-01-13
+CT1553,"O'Brien, Mr. Timothy",male,27,2012-05-08
+CT1554,"Leeni, Mr. Fahim (""Philip Zenni"")",male,32,1990-11-28
+CT1555,"Ohman, Miss. Velin",female,32,1990-11-28
+CT1556,"Wright, Mr. George",male,72,1951-12-03
+CT1557,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,58,1965-07-26
+CT1558,"Robbins, Mr. Victor",male,27,2012-05-08
+CT1559,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,49,1974-05-04
+CT1560,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,46,1977-04-06
+CT1561,"Morrow, Mr. Thomas Rowan",male,27,2012-05-08
+CT1562,"Sivic, Mr. Husein",male,50,1973-05-13
+CT1563,"Norman, Mr. Robert Douglas",male,38,1985-01-22
+CT1564,"Simmons, Mr. John",male,27,2012-05-08
+CT1565,"Meanwell, Miss. (Marion Ogden)",female,27,2012-05-08
+CT1566,"Davies, Mr. Alfred J",male,34,1988-12-16
+CT1567,"Stoytcheff, Mr. Ilia",male,29,1993-10-31
+CT1568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,39,1984-02-01
+CT1569,"Doharr, Mr. Tannous",male,27,2012-05-08
+CT1570,"Jonsson, Mr. Carl",male,42,1981-02-28
+CT1571,"Harris, Mr. George",male,72,1951-12-03
+CT1572,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,63,1960-09-10
+CT1573,"Flynn, Mr. John Irwin (""Irving"")",male,46,1977-04-06
+CT1574,"Kelly, Miss. Mary",female,27,2012-05-08
+CT1575,"Rush, Mr. Alfred George John",male,26,1996-10-03
+CT1576,"Patchett, Mr. George",male,29,1993-10-31
+CT1577,"Garside, Miss. Ethel",female,44,1979-03-19
+CT1578,"Silvey, Mrs. William Baird (Alice Munger)",female,49,1974-05-04
+CT1579,"Caram, Mrs. Joseph (Maria Elias)",female,27,2012-05-08
+CT1580,"Jussila, Mr. Eiriik",male,42,1981-02-28
+CT1581,"Christy, Miss. Julie Rachel",female,35,1987-12-26
+CT1582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,49,1974-05-04
+CT1583,"Downton, Mr. William James",male,64,1959-09-20
+CT1584,"Ross, Mr. John Hugo",male,46,1977-04-06
+CT1585,"Paulner, Mr. Uscher",male,27,2012-05-08
+CT1586,"Taussig, Miss. Ruth",female,28,1994-10-22
+CT1587,"Jarvis, Mr. John Denzil",male,57,1966-07-17
+CT1588,"Frolicher-Stehli, Mr. Maxmillian",male,70,1953-11-14
+CT1589,"Gilinski, Mr. Eliezer",male,32,1990-11-28
+CT1590,"Murdlin, Mr. Joseph",male,27,2012-05-08
+CT1591,"Rintamaki, Mr. Matti",male,45,1978-03-28
+CT1592,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,62,1961-09-01
+CT1593,"Elsbury, Mr. William James",male,57,1966-07-17
+CT1594,"Bourke, Miss. Mary",female,27,2012-05-08
+CT1595,"Chapman, Mr. John Henry",male,47,1976-04-15
+CT1596,"Van Impe, Mr. Jean Baptiste",male,46,1977-04-06
+CT1597,"Leitch, Miss. Jessie Wills",female,27,2012-05-08
+CT1598,"Johnson, Mr. Alfred",male,59,1964-08-04
+CT1599,"Boulos, Mr. Hanna",male,27,2012-05-08
+CT1600,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,59,1964-08-04
+CT1601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,34,1988-12-16
+CT1602,"Slabenoff, Mr. Petco",male,27,2012-05-08
+CT1603,"Harrington, Mr. Charles H",male,27,2012-05-08
+CT1604,"Torber, Mr. Ernst William",male,54,1969-06-19
+CT1605,"Homer, Mr. Harry (""Mr E Haven"")",male,45,1978-03-28
+CT1606,"Lindell, Mr. Edvard Bengtsson",male,46,1977-04-06
+CT1607,"Karaic, Mr. Milan",male,40,1983-02-10
+CT1608,"Daniel, Mr. Robert Williams",male,37,1986-01-13
+CT1609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,32,1990-11-28
+CT1610,"Shutes, Miss. Elizabeth W",female,50,1973-05-13
+CT1611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,49,1974-05-04
+CT1612,"Jardin, Mr. Jose Neto",male,27,2012-05-08
+CT1613,"Murphy, Miss. Margaret Jane",female,27,2012-05-08
+CT1614,"Horgan, Mr. John",male,27,2012-05-08
+CT1615,"Brocklebank, Mr. William Alfred",male,45,1978-03-28
+CT1616,"Herman, Miss. Alice",female,34,1988-12-16
+CT1617,"Danbom, Mr. Ernst Gilbert",male,44,1979-03-19
+CT1618,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,36,1987-01-04
+CT1619,"Becker, Miss. Marion Louise",female,14,2008-06-14
+CT1620,"Gavey, Mr. Lawrence",male,36,1987-01-04
+CT1621,"Yasbeck, Mr. Antoni",male,37,1986-01-13
+CT1622,"Kimball, Mr. Edwin Nelson Jr",male,52,1971-06-01
+CT1623,"Nakid, Mr. Sahid",male,30,1992-11-09
+CT1624,"Hansen, Mr. Henry Damsgaard",male,31,1991-11-19
+CT1625,"Bowen, Mr. David John ""Dai""",male,31,1991-11-19
+CT1626,"Sutton, Mr. Frederick",male,71,1952-11-23
+CT1627,"Kirkland, Rev. Charles Leonard",male,67,1956-10-17
+CT1628,"Longley, Miss. Gretchen Fiske",female,31,1991-11-19
+CT1629,"Bostandyeff, Mr. Guentcho",male,36,1987-01-04
+CT1630,"O'Connell, Mr. Patrick D",male,27,2012-05-08
+CT1631,"Barkworth, Mr. Algernon Henry Wilson",male,90,1934-05-18
+CT1632,"Lundahl, Mr. Johan Svensson",male,61,1962-08-23
+CT1633,"Stahelin-Maeglin, Dr. Max",male,42,1981-02-28
+CT1634,"Parr, Mr. William Henry Marsh",male,27,2012-05-08
+CT1635,"Skoog, Miss. Mabel",female,19,2003-07-31
+CT1636,"Davis, Miss. Mary",female,38,1985-01-22
+CT1637,"Leinonen, Mr. Antti Gustaf",male,42,1981-02-28
+CT1638,"Collyer, Mr. Harvey",male,41,1982-02-19
+CT1639,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,51,1972-05-22
+CT1640,"Thorneycroft, Mr. Percival",male,27,2012-05-08
+CT1641,"Jensen, Mr. Hans Peder",male,30,1992-11-09
+CT1642,"Sagesser, Mlle. Emma",female,34,1988-12-16
+CT1643,"Skoog, Miss. Margit Elizabeth",female,12,2010-05-27
+CT1644,"Foo, Mr. Choong",male,27,2012-05-08
+CT1645,"Baclini, Miss. Eugenie",female,27,2012-05-08
+CT1646,"Harper, Mr. Henry Sleeper",male,58,1965-07-26
+CT1647,"Cor, Mr. Liudevit",male,29,1993-10-31
+CT1648,"Simonius-Blumer, Col. Oberst Alfons",male,66,1957-10-08
+CT1649,"Willey, Mr. Edward",male,27,2012-05-08
+CT1650,"Stanley, Miss. Amy Zillah Elsie",female,33,1989-12-07
+CT1651,"Mitkoff, Mr. Mito",male,27,2012-05-08
+CT1652,"Doling, Miss. Elsie",female,28,1994-10-22
+CT1653,"Kalvik, Mr. Johannes Halvorsen",male,31,1991-11-19
+CT1654,"O'Leary, Miss. Hanora ""Norah""",female,27,2012-05-08
+CT1655,"Hegarty, Miss. Hanora ""Nora""",female,28,1994-10-22
+CT1656,"Hickman, Mr. Leonard Mark",male,34,1988-12-16
+CT1657,"Radeff, Mr. Alexander",male,27,2012-05-08
+CT1658,"Bourke, Mrs. John (Catherine)",female,42,1981-02-28
+CT1659,"Eitemiller, Mr. George Floyd",male,33,1989-12-07
+CT1660,"Newell, Mr. Arthur Webster",male,68,1955-10-27
+CT1661,"Frauenthal, Dr. Henry William",male,60,1963-08-14
+CT1662,"Badt, Mr. Mohamed",male,50,1973-05-13
+CT1663,"Colley, Mr. Edward Pomeroy",male,57,1966-07-17
+CT1664,"Coleff, Mr. Peju",male,46,1977-04-06
+CT1665,"Lindqvist, Mr. Eino William",male,30,1992-11-09
+CT1666,"Hickman, Mr. Lewis",male,42,1981-02-28
+CT1667,"Butler, Mr. Reginald Fenton",male,35,1987-12-26
+CT1668,"Rommetvedt, Mr. Knud Paust",male,27,2012-05-08
+CT1669,"Cook, Mr. Jacob",male,53,1970-06-10
+CT1670,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,27,2012-05-08
+CT1671,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,50,1973-05-13
+CT1672,"Davidson, Mr. Thornton",male,41,1982-02-19
+CT1673,"Mitchell, Mr. Henry Michael",male,80,1944-02-15
+CT1674,"Wilhelms, Mr. Charles",male,41,1982-02-19
+CT1675,"Watson, Mr. Ennis Hastings",male,27,2012-05-08
+CT1676,"Edvardsson, Mr. Gustaf Hjalmar",male,28,1994-10-22
+CT1677,"Sawyer, Mr. Frederick Charles",male,34,1988-12-16
+CT1678,"Turja, Miss. Anna Sofia",female,28,1994-10-22
+CT1679,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,53,1970-06-10
+CT1680,"Cardeza, Mr. Thomas Drake Martinez",male,46,1977-04-06
+CT1681,"Peters, Miss. Katie",female,27,2012-05-08
+CT1682,"Hassab, Mr. Hammad",male,37,1986-01-13
+CT1683,"Olsvigen, Mr. Thor Anderson",male,30,1992-11-09
+CT1684,"Goodwin, Mr. Charles Edward",male,24,1998-09-15
+CT1685,"Brown, Mr. Thomas William Solomon",male,70,1953-11-14
+CT1686,"Laroche, Mr. Joseph Philippe Lemercier",male,35,1987-12-26
+CT1687,"Panula, Mr. Jaako Arnold",male,24,1998-09-15
+CT1688,"Dakic, Mr. Branko",male,29,1993-10-31
+CT1689,"Fischer, Mr. Eberhard Thelander",male,28,1994-10-22
+CT1690,"Madill, Miss. Georgette Alexandra",female,25,1997-09-24
+CT1691,"Dick, Mr. Albert Adrian",male,41,1982-02-19
+CT1692,"Karun, Miss. Manca",female,14,2008-06-14
+CT1693,"Lam, Mr. Ali",male,27,2012-05-08
+CT1694,"Saad, Mr. Khalil",male,35,1987-12-26
+CT1695,"Weir, Col. John",male,70,1953-11-14
+CT1696,"Chapman, Mr. Charles Henry",male,62,1961-09-01
+CT1697,"Kelly, Mr. James",male,54,1969-06-19
+CT1698,"Mullens, Miss. Katherine ""Katie""",female,27,2012-05-08
+CT1699,"Thayer, Mr. John Borland",male,59,1964-08-04
+CT1700,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,52,1971-06-01
+CT1701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,28,1994-10-22
+CT1702,"Silverthorne, Mr. Spencer Victor",male,45,1978-03-28
+CT1703,"Barbara, Miss. Saiide",female,28,1994-10-22
+CT1704,"Gallagher, Mr. Martin",male,35,1987-12-26
+CT1705,"Hansen, Mr. Henrik Juul",male,36,1987-01-04
+CT1706,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,49,1974-05-04
+CT1707,"Kelly, Mrs. Florence ""Fannie""",female,55,1968-06-28
+CT1708,"Calderhead, Mr. Edward Pennington",male,52,1971-06-01
+CT1709,"Cleaver, Miss. Alice",female,32,1990-11-28
+CT1710,"Moubarek, Master. Halim Gonios (""William George"")",male,27,2012-05-08
+CT1711,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,34,1988-12-16
+CT1712,"Klaber, Mr. Herman",male,27,2012-05-08
+CT1713,"Taylor, Mr. Elmer Zebley",male,58,1965-07-26
+CT1714,"Larsson, Mr. August Viktor",male,39,1984-02-01
+CT1715,"Greenberg, Mr. Samuel",male,62,1961-09-01
+CT1716,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,29,1993-10-31
+CT1717,"Endres, Miss. Caroline Louise",female,48,1975-04-25
+CT1718,"Troutt, Miss. Edwina Celia ""Winnie""",female,37,1986-01-13
+CT1719,"McEvoy, Mr. Michael",male,27,2012-05-08
+CT1720,"Johnson, Mr. Malkolm Joackim",male,43,1980-03-09
+CT1721,"Harper, Miss. Annie Jessie ""Nina""",female,16,2006-07-03
+CT1722,"Jensen, Mr. Svend Lauritz",male,27,1995-10-13
+CT1723,"Gillespie, Mr. William Henry",male,44,1979-03-19
+CT1724,"Hodges, Mr. Henry Price",male,60,1963-08-14
+CT1725,"Chambers, Mr. Norman Campbell",male,37,1986-01-13
+CT1726,"Oreskovic, Mr. Luka",male,30,1992-11-09
+CT1727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,40,1983-02-10
+CT1728,"Mannion, Miss. Margareth",female,27,2012-05-08
+CT1729,"Bryhl, Mr. Kurt Arnold Gottfrid",male,35,1987-12-26
+CT1730,"Ilmakangas, Miss. Pieta Sofia",female,35,1987-12-26
+CT1731,"Allen, Miss. Elisabeth Walton",female,39,1984-02-01
+CT1732,"Hassan, Mr. Houssein G N",male,21,2001-08-18
+CT1733,"Knight, Mr. Robert J",male,27,2012-05-08
+CT1734,"Berriman, Mr. William John",male,33,1989-12-07
+CT1735,"Troupiansky, Mr. Moses Aaron",male,33,1989-12-07
+CT1736,"Williams, Mr. Leslie",male,38,1985-01-22
+CT1737,"Ford, Mrs. Edward (Margaret Ann Watson)",female,58,1965-07-26
+CT1738,"Lesurer, Mr. Gustave J",male,45,1978-03-28
+CT1739,"Ivanoff, Mr. Kanio",male,27,2012-05-08
+CT1740,"Nankoff, Mr. Minko",male,27,2012-05-08
+CT1741,"Hawksford, Mr. Walter James",male,27,2012-05-08
+CT1742,"Cavendish, Mr. Tyrell William",male,46,1977-04-06
+CT1743,"Ryerson, Miss. Susan Parker ""Suzette""",female,31,1991-11-19
+CT1744,"McNamee, Mr. Neal",male,34,1988-12-16
+CT1745,"Stranden, Mr. Juho",male,41,1982-02-19
+CT1746,"Crosby, Capt. Edward Gifford",male,80,1944-02-15
+CT1747,"Abbott, Mr. Rossmore Edward",male,26,1996-10-03
+CT1748,"Sinkkonen, Miss. Anna",female,40,1983-02-10
+CT1749,"Marvin, Mr. Daniel Warner",male,29,1993-10-31
+CT1750,"Connaghton, Mr. Michael",male,41,1982-02-19
+CT1751,"Wells, Miss. Joan",female,14,2008-06-14
+CT1752,"Moor, Master. Meier",male,16,2006-07-03
+CT1753,"Vande Velde, Mr. Johannes Joseph",male,43,1980-03-09
+CT1754,"Jonkoff, Mr. Lalio",male,33,1989-12-07
+CT1755,"Herman, Mrs. Samuel (Jane Laver)",female,58,1965-07-26
+CT1756,"Hamalainen, Master. Viljo",male,27,2012-05-08
+CT1757,"Carlsson, Mr. August Sigfrid",male,38,1985-01-22
+CT1758,"Bailey, Mr. Percy Andrew",male,28,1994-10-22
+CT1759,"Theobald, Mr. Thomas Leonard",male,44,1979-03-19
+CT1760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,43,1980-03-09
+CT1761,"Garfirth, Mr. John",male,27,2012-05-08
+CT1762,"Nirva, Mr. Iisakki Antino Aijo",male,51,1972-05-22
+CT1763,"Barah, Mr. Hanna Assi",male,30,1992-11-09
+CT1764,"Carter, Mrs. William Ernest (Lucile Polk)",female,46,1977-04-06
+CT1765,"Eklund, Mr. Hans Linus",male,26,1996-10-03
+CT1766,"Hogeboom, Mrs. John C (Anna Andrews)",female,61,1962-08-23
+CT1767,"Brewe, Dr. Arthur Jackson",male,27,2012-05-08
+CT1768,"Mangan, Miss. Mary",female,40,1983-02-10
+CT1769,"Moran, Mr. Daniel J",male,27,2012-05-08
+CT1770,"Gronnestad, Mr. Daniel Danielsen",male,42,1981-02-28
+CT1771,"Lievens, Mr. Rene Aime",male,34,1988-12-16
+CT1772,"Jensen, Mr. Niels Peder",male,58,1965-07-26
+CT1773,"Mack, Mrs. (Mary)",female,67,1956-10-17
+CT1774,"Elias, Mr. Dibo",male,27,2012-05-08
+CT1775,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,64,1959-09-20
+CT1776,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,28,1994-10-22
+CT1777,"Tobin, Mr. Roger",male,27,2012-05-08
+CT1778,"Emanuel, Miss. Virginia Ethel",female,15,2007-06-24
+CT1779,"Kilgannon, Mr. Thomas J",male,27,2012-05-08
+CT1780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,53,1970-06-10
+CT1781,"Ayoub, Miss. Banoura",female,23,1999-09-06
+CT1782,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,27,1995-10-13
+CT1783,"Long, Mr. Milton Clyde",male,39,1984-02-01
+CT1784,"Johnston, Mr. Andrew G",male,27,2012-05-08
+CT1785,"Ali, Mr. William",male,35,1987-12-26
+CT1786,"Harmer, Mr. Abraham (David Lishin)",male,35,1987-12-26
+CT1787,"Sjoblom, Miss. Anna Sofia",female,28,1994-10-22
+CT1788,"Rice, Master. George Hugh",male,18,2004-07-21
+CT1789,"Dean, Master. Bertram Vere",male,11,2011-05-18
+CT1790,"Guggenheim, Mr. Benjamin",male,56,1967-07-08
+CT1791,"Keane, Mr. Andrew ""Andy""",male,27,2012-05-08
+CT1792,"Gaskell, Mr. Alfred",male,26,1996-10-03
+CT1793,"Sage, Miss. Stella Anna",female,27,2012-05-08
+CT1794,"Hoyt, Mr. William Fisher",male,27,2012-05-08
+CT1795,"Dantcheff, Mr. Ristiu",male,35,1987-12-26
+CT1796,"Otter, Mr. Richard",male,49,1974-05-04
+CT1797,"Leader, Dr. Alice (Farnham)",female,59,1964-08-04
+CT1798,"Osman, Mrs. Mara",female,41,1982-02-19
+CT1799,"Ibrahim Shawah, Mr. Yousseff",male,40,1983-02-10
+CT1800,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,40,1983-02-10
+CT1801,"Ponesell, Mr. Martin",male,44,1979-03-19
+CT1802,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,41,1982-02-19
+CT1803,"Carter, Master. William Thornton II",male,21,2001-08-18
+CT1804,"Thomas, Master. Assad Alexander",male,27,2012-05-08
+CT1805,"Hedman, Mr. Oskar Arvid",male,37,1986-01-13
+CT1806,"Johansson, Mr. Karl Johan",male,41,1982-02-19
+CT1807,"Andrews, Mr. Thomas Jr",male,49,1974-05-04
+CT1808,"Pettersson, Miss. Ellen Natalia",female,28,1994-10-22
+CT1809,"Meyer, Mr. August",male,49,1974-05-04
+CT1810,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,43,1980-03-09
+CT1811,"Alexander, Mr. William",male,36,1987-01-04
+CT1812,"Lester, Mr. James",male,49,1974-05-04
+CT1813,"Slemen, Mr. Richard James",male,45,1978-03-28
+CT1814,"Andersson, Miss. Ebba Iris Alfrida",female,16,2006-07-03
+CT1815,"Tomlin, Mr. Ernest Portage",male,40,1983-02-10
+CT1816,"Fry, Mr. Richard",male,27,2012-05-08
+CT1817,"Heininen, Miss. Wendla Maria",female,33,1989-12-07
+CT1818,"Mallet, Mr. Albert",male,41,1982-02-19
+CT1819,"Holm, Mr. John Fredrik Alexander",male,53,1970-06-10
+CT1820,"Skoog, Master. Karl Thorsten",male,20,2002-08-09
+CT1821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,62,1961-09-01
+CT1822,"Lulic, Mr. Nikola",male,37,1986-01-13
+CT1823,"Reuchlin, Jonkheer. John George",male,48,1975-04-25
+CT1824,"Moor, Mrs. (Beila)",female,37,1986-01-13
+CT1825,"Panula, Master. Urho Abraham",male,12,2010-05-27
+CT1826,"Flynn, Mr. John",male,27,2012-05-08
+CT1827,"Lam, Mr. Len",male,27,2012-05-08
+CT1828,"Mallet, Master. Andre",male,11,2011-05-18
+CT1829,"McCormack, Mr. Thomas Joseph",male,27,2012-05-08
+CT1830,"Stone, Mrs. George Nelson (Martha Evelyn)",female,72,1951-12-03
+CT1831,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,25,1997-09-24
+CT1832,"Richards, Master. George Sibley",male,27,2012-05-08
+CT1833,"Saad, Mr. Amin",male,27,2012-05-08
+CT1834,"Augustsson, Mr. Albert",male,33,1989-12-07
+CT1835,"Allum, Mr. Owen George",male,28,1994-10-22
+CT1836,"Compton, Miss. Sara Rebecca",female,49,1974-05-04
+CT1837,"Pasic, Mr. Jakob",male,31,1991-11-19
+CT1838,"Sirota, Mr. Maurice",male,27,2012-05-08
+CT1839,"Chip, Mr. Chang",male,42,1981-02-28
+CT1840,"Marechal, Mr. Pierre",male,27,2012-05-08
+CT1841,"Alhomaki, Mr. Ilmari Rudolf",male,30,1992-11-09
+CT1842,"Mudd, Mr. Thomas Charles",male,26,1996-10-03
+CT1843,"Serepeca, Miss. Augusta",female,40,1983-02-10
+CT1844,"Lemberopolous, Mr. Peter L",male,44,1979-03-19
+CT1845,"Culumovic, Mr. Jeso",male,27,1995-10-13
+CT1846,"Abbing, Mr. Anthony",male,52,1971-06-01
+CT1847,"Sage, Mr. Douglas Bullen",male,27,2012-05-08
+CT1848,"Markoff, Mr. Marin",male,45,1978-03-28
+CT1849,"Harper, Rev. John",male,38,1985-01-22
+CT1850,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,27,2012-05-08
+CT1851,"Andersson, Master. Sigvard Harald Elias",male,14,2008-06-14
+CT1852,"Svensson, Mr. Johan",male,84,1940-03-23
+CT1853,"Boulos, Miss. Nourelain",female,19,2003-07-31
+CT1854,"Lines, Miss. Mary Conover",female,26,1996-10-03
+CT1855,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,54,1969-06-19
+CT1856,"Aks, Mrs. Sam (Leah Rosen)",female,28,1994-10-22
+CT1857,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,55,1968-06-28
+CT1858,"Daly, Mr. Peter Denis ",male,61,1962-08-23
+CT1859,"Baclini, Mrs. Solomon (Latifa Qurban)",female,34,1988-12-16
+CT1860,"Razi, Mr. Raihed",male,27,2012-05-08
+CT1861,"Hansen, Mr. Claus Peter",male,51,1972-05-22
+CT1862,"Giles, Mr. Frederick Edward",male,31,1991-11-19
+CT1863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,58,1965-07-26
+CT1864,"Sage, Miss. Dorothy Edith ""Dolly""",female,27,2012-05-08
+CT1865,"Gill, Mr. John William",male,34,1988-12-16
+CT1866,"Bystrom, Mrs. (Karolina)",female,52,1971-06-01
+CT1867,"Duran y More, Miss. Asuncion",female,37,1986-01-13
+CT1868,"Roebling, Mr. Washington Augustus II",male,41,1982-02-19
+CT1869,"van Melkebeke, Mr. Philemon",male,27,2012-05-08
+CT1870,"Johnson, Master. Harold Theodor",male,14,2008-06-14
+CT1871,"Balkic, Mr. Cerin",male,36,1987-01-04
+CT1872,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,57,1966-07-17
+CT1873,"Carlsson, Mr. Frans Olof",male,43,1980-03-09
+CT1874,"Vander Cruyssen, Mr. Victor",male,57,1966-07-17
+CT1875,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,38,1985-01-22
+CT1876,"Najib, Miss. Adele Kiamie ""Jane""",female,25,1997-09-24
+CT1877,"Gustafsson, Mr. Alfred Ossian",male,30,1992-11-09
+CT1878,"Petroff, Mr. Nedelio",male,29,1993-10-31
+CT1879,"Laleff, Mr. Kristo",male,27,2012-05-08
+CT1880,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,66,1957-10-08
+CT1881,"Shelley, Mrs. William (Imanita Parrish Hall)",female,35,1987-12-26
+CT1882,"Markun, Mr. Johann",male,43,1980-03-09
+CT1883,"Dahlberg, Miss. Gerda Ulrika",female,32,1990-11-28
+CT1884,"Banfield, Mr. Frederick James",male,38,1985-01-22
+CT1885,"Sutehall, Mr. Henry Jr",male,35,1987-12-26
+CT1886,"Rice, Mrs. William (Margaret Norton)",female,49,1974-05-04
+CT1887,"Montvila, Rev. Juozas",male,37,1986-01-13
+CT1888,"Graham, Miss. Margaret Edith",female,29,1993-10-31
+CT1889,"Johnston, Miss. Catherine Helen ""Carrie""",female,27,2012-05-08
+CT1890,"Behr, Mr. Karl Howell",male,36,1987-01-04
+CT1891,"Dooley, Mr. Patrick",male,42,1981-02-28
