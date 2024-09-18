@@ -1,0 +1,21 @@
+﻿EmpID,EmpName,EngName,Gender,MaritalYN,HireDate,RetireDate,DeptID,Phone,EMail,Salary
+S0001,홍길동,hong,M,Y,2017-01-01,NULL,SYS,010-1234-1234,hong@d-friends.co.kr,8500
+S0002,일지매,jiemae,M,Y,2017-01-12,NULL,GEN,"017-111-1222 ",jimae@d-friends.co.kr,8300
+S0003,강우동,NULL,M,N,2018-04-01,NULL,SYS,010-1222-2221,woodong@d-friends.co.kr,6500
+S0004,김삼순,samsam,F,Y,2018-08-01,NULL,MKT,010-3212-3212,samsoon.kim@d-friends.co.kr,7000
+S0005,오삼식,three,M,N,2019-01-01,2021-01-31,MKT,010-9876-5432,samsik@d-friends.co.kr,6400
+S0006,김치국,kimchi,M,Y,2019-03-01,NULL,HRD,010-8765-8765,chikook@d-friends.co.kr,6000
+S0007,안경태,NULL,M,N,2019-05-01,NULL,ACC,"017-543-3456 ",ahn@d-friends.co.kr,6000
+S0008,박여사,parks,F,Y,2019-08-01,2020-09-30,HRD,010-2345-5432,yeosa@d-friends.co.kr,6300
+S0009,최사모,samoya,F,N,2019-10-01,NULL,SYS,"011-899-9988 ",samo@d-friends.co.kr,5800
+S0010,정효리,NULL,F,N,2020-01-01,NULL,MKT,010-9988-9900,hyori.jung@d-friends.co.kr,5000
+S0011,오감자,fivegamja,M,N,2020-02-01,NULL,SYS,010-6655-7788,gamja@d-friends.co.kr,4700
+S0012,최일국,ilgook,M,Y,2020-02-01,NULL,GEN,010-8703-7123,ilkook@d-friends.co.kr,6500
+S0013,한국인,korea,M,N,2020-04-01,NULL,SYS,010-6611-1266,hankook@d-friends.co.kr,4500
+S0014,이최고,first,M,N,2020-04-01,NULL,MKT,010-2345-9886,one@d-friends.co.kr,5000
+S0015,박치기,NULL,M,N,2020-06-01,2021-05-31,MKT,010-8800-0010,chichi@d-friends.co.kr,4700
+S0016,한사랑,onelove,F,Y,2020-06-01,NULL,HRD,010-3215-0987,love@d-friends.co.kr,7200
+S0017,나도야,nado,M,N,2021-12-01,NULL,ACC,010-3399-9933,yaya@d-friends.co.kr,4000
+S0018,이리와,NULL,M,N,2022-01-01,2022-06-30,HRD,010-5521-1252,comeon@d-friends.co.kr,5300
+S0019,정주고,NULL,M,N,2022-01-01,NULL,SYS,010-7777-2277,give@d-friends.co.kr,6000
+S0020,고소해,gogo,F,N,2022-06-01,NULL,STG,010-9966-1230,haha@d-friends.co.kr,NULL
