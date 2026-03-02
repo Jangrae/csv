@@ -1,0 +1,37 @@
+Category,Subcategory,Product,Quantity,Amount
+Electronics,Laptops,MacBook Air,1359,60108.88
+Electronics,Laptops,Dell XPS 13,1568,141139.51
+Electronics,Laptops,HP Spectre x360,507,74071.27
+Electronics,Smartphones,iPhone 15,259,339966.25
+Electronics,Smartphones,Galaxy S24,1877,274956.43
+Electronics,Smartphones,Pixel 8,1259,213851.3
+Electronics,Accessories,Wireless Mouse,111,51379.14
+Electronics,Accessories,Bluetooth Headphones,526,255150.87
+Electronics,Accessories,USB-C Hub,104,282816.31
+Fashion,Men Clothing,Slim Fit Suit,1516,326692.8
+Fashion,Men Clothing,Casual Jacket,1166,212662.31
+Fashion,Men Clothing,Denim Jeans,969,296686.51
+Fashion,Women Clothing,Summer Dress,1707,435303.66
+Fashion,Women Clothing,Leather Handbag,1604,403880.53
+Fashion,Women Clothing,High Heels,1479,214194.13
+Fashion,Shoes,Running Shoes,619,81962.35
+Fashion,Shoes,Formal Shoes,1613,171614.3
+Fashion,Shoes,Sneakers,239,193064.01
+Home & Kitchen,Appliances,Air Fryer,785,424509.71
+Home & Kitchen,Appliances,Microwave Oven,1286,135937.83
+Home & Kitchen,Appliances,Vacuum Cleaner,138,366217.23
+Home & Kitchen,Furniture,Office Chair,1148,66788.95
+Home & Kitchen,Furniture,Dining Table,1938,192374.52
+Home & Kitchen,Furniture,Sofa,1180,150123.25
+Home & Kitchen,Cookware,Non-stick Pan,1337,311167.28
+Home & Kitchen,Cookware,Knife Set,1814,184009.34
+Home & Kitchen,Cookware,Blender,443,353763.06
+Sports & Outdoors,Fitness,Treadmill,143,332325.34
+Sports & Outdoors,Fitness,Dumbbell Set,1633,148247.04
+Sports & Outdoors,Fitness,Yoga Mat,213,428382.27
+Sports & Outdoors,Outdoor,Camping Tent,1824,54995.71
+Sports & Outdoors,Outdoor,Hiking Backpack,619,229438.1
+Sports & Outdoors,Outdoor,Sleeping Bag,1758,185591.93
+Sports & Outdoors,Cycling,Mountain Bike,808,180859
+Sports & Outdoors,Cycling,Helmet,1422,137154.02
+Sports & Outdoors,Cycling,Cycling Gloves,1968,343356.09
