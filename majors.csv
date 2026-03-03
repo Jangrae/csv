@@ -1,6 +1,5 @@
-﻿major_id,major_name,college,
-M01,Computer Science,Engineering,
-M02,Business,Social Sci,
-M03,Mathematics,Natural Sci,
-M04,Physics,Natural Sci,
-,,,
+﻿major_id,major_name,college
+M01,Computer Science,Engineering
+M02,Business,Social Sci
+M03,Mathematics,Natural Sci
+M04,Physics,Natural Sci
